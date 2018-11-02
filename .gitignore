@@ -58,6 +58,8 @@ testem.log
 .DS_Store
 Thumbs.db
 
+coverage
+
 node_modules
 © 2018 GitHub, Inc.
 Terms
