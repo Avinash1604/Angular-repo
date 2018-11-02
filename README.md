@@ -1,4 +1,4 @@
-# AngularTodo [![Build Status](https://travis-ci.com/Avinash1604/Angular-repo.svg?branch=master)](https://travis-ci.com/Avinash1604/Angular-repo)
+# AngularTodo [![Build Status](https://travis-ci.com/Avinash1604/Angular-repo.svg?branch=master)](https://travis-ci.com/Avinash1604/Angular-repo) [![Coverage Status](https://coveralls.io/repos/github/Avinash1604/Angular-repo/badge.svg)](https://coveralls.io/github/Avinash1604/Angular-repo)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.3.
 
