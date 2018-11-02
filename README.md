@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/9f3d749754b14e34a385630dc9bc413e)](https://app.codacy.com/app/Avinash1604/Angular-repo?utm_source=github.com&utm_medium=referral&utm_content=Avinash1604/Angular-repo&utm_campaign=Badge_Grade_Dashboard)
 # AngularTodo [![Build Status](https://travis-ci.com/Avinash1604/Angular-repo.svg?branch=master)](https://travis-ci.com/Avinash1604/Angular-repo) [![Coverage Status](https://coveralls.io/repos/github/Avinash1604/Angular-repo/badge.svg)](https://coveralls.io/github/Avinash1604/Angular-repo)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.3.
