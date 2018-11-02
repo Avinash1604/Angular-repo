@@ -23,6 +23,9 @@ script:
 - ng build --prod --base-href https://Avinash1604.github.io/Angular-repo/
 
 
+after_success:
+- cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js
+
 deploy:
   provider: pages
   skip-cleanup: true
