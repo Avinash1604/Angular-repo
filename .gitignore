@@ -1,0 +1,74 @@
+Skip to content
+
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ @Avinash1604 Sign out
+2
+0 3 paul58914080/ff4j-web-console
+ Code  Issues 7  Pull requests 0  Projects 1  Wiki  Insights
+ff4j-web-console/.gitignore
+6ef9cc9  on 10 Sep
+@paul58914080 paul58914080 fixed the issue of ignoring protractor conf
+
+44 lines (36 sloc)  524 Bytes
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# compiled output
+/dist
+/dist-server
+/tmp
+/out-tsc
+
+
+# IDEs and editors
+/.idea
+*.iml
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# misc
+/.sass-cache
+/connect.lock
+/coverage
+/libpeerconnection.log
+npm-debug.log
+yarn-error.log
+testem.log
+/typings
+
+# e2e
+/e2e/*.map
+
+# System Files
+.DS_Store
+Thumbs.db
+
+node_modules
+© 2018 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Press h to open a hovercard with more details.
